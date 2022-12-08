@@ -10,7 +10,6 @@ dimension <- function(data){
   type <- class(data)
   rows <- nrow(data)
   columns <- ncol(data)
-  print(paste0("type: ", type))
-  print(paste0("rows: ", rows))
-  print(paste0("columns: ", columns))
+  finalResults <- data.frame(type, rows, columns)
+  print(finalResults)
 }
