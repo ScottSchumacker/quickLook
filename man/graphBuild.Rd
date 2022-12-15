@@ -2,7 +2,7 @@
 % Please edit documentation in R/graphBuild.R
 \name{graphBuild}
 \alias{graphBuild}
-\title{Create a scatter plot}
+\title{graphBuild()}
 \usage{
 graphBuild(data, xVar, yVar)
 }
@@ -17,7 +17,7 @@ graphBuild(data, xVar, yVar)
 A graph showing your results
 }
 \description{
-Create a scatter plot
+The graphBuild() function allows you to easily create a scatter plot
 }
 \examples{
 graphBuild(data = iris, xVar = iris$Sepal.Length, yVar = iris$Sepal.Width)
