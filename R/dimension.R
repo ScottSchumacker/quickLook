@@ -1,5 +1,7 @@
-#' Get the dimensions of a data set
+#' dimension()
 #'
+#'@description
+#'dimension() is a function that allows you to see the dimensions of your data
 #' @param data a data set to use
 #' @return print statements about your data
 #' @examples
