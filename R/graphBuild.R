@@ -1,5 +1,7 @@
-#' Create a scatter plot
+#' graphBuild()
 #'
+#' @description
+#' The graphBuild() function allows you to easily create a scatter plot
 #' @param data a data set to use
 #' @param xVar x variable for plot, numeric variable
 #' @param yVar y variable for plot, numeric variable
