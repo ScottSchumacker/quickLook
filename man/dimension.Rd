@@ -2,7 +2,7 @@
 % Please edit documentation in R/dimension.R
 \name{dimension}
 \alias{dimension}
-\title{Get the dimensions of a data set}
+\title{dimension()}
 \usage{
 dimension(data)
 }
@@ -13,7 +13,7 @@ dimension(data)
 print statements about your data
 }
 \description{
-Get the dimensions of a data set
+dimension() is a function that allows you to see the dimensions of your data
 }
 \examples{
 dimension(iris)
