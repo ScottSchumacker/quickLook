@@ -1,7 +1,7 @@
 Package: quickLook
 Type: Package
 Title: This package allows you to easily explore your data
-Version: 0.1.0.9002
+Version: 0.1.0.9003
 Author: Scott Schumacker
 Maintainer: Scott Schumacker <scottschu97@gmail.com>
 Description: This package allows you to explore your data.
